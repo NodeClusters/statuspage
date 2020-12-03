@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 104,
-    "timeWeek": 104,
-    "timeMonth": 104,
-    "timeYear": 104
+    "time": 98,
+    "timeDay": 98,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98
   },
   {
     "name": "VPS-CTRL-1",
@@ -25,27 +25,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 458,
-    "timeWeek": 458,
-    "timeMonth": 458,
-    "timeYear": 458
+    "time": 449,
+    "timeDay": 449,
+    "timeWeek": 449,
+    "timeMonth": 449,
+    "timeYear": 449
   },
   {
     "name": "US-VPS-PREM-1",
-    "url": "$US-VPS-PREM-1",
+    "url": "$US_VPS_PREM_1",
     "slug": "us-vps-prem-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238
   },
   {
     "name": "CA-VPS-1",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 198,
-    "timeWeek": 198,
-    "timeMonth": 198,
-    "timeYear": 198
+    "time": 191,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191
   },
   {
     "name": "CA-VPS-2",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 246,
-    "timeWeek": 246,
-    "timeMonth": 246,
-    "timeYear": 246
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229
   },
   {
     "name": "CA-WEB-1",
@@ -89,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 157,
-    "timeWeek": 157,
-    "timeMonth": 157,
-    "timeYear": 157
+    "time": 172,
+    "timeDay": 172,
+    "timeWeek": 172,
+    "timeMonth": 172,
+    "timeYear": 172
   }
 ]
