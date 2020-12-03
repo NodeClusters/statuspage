@@ -9,7 +9,7 @@ sites:
   - name: VPS-CTRL-1
     url: $VPS_CTRL_1
   - name: US-VPS-PREM-1
-    url: $US-VPS-PREM-1
+    url: $US_VPS_PREM_1
   - name: CA-VPS-1
     url: $CA_VPS_1
   - name: CA-VPS-2
