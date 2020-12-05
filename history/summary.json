@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 96,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96
+    "time": 90,
+    "timeDay": 91,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90
   },
   {
     "name": "VPS-CTRL-1",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 476,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476
+    "time": 504,
+    "timeDay": 555,
+    "timeWeek": 504,
+    "timeMonth": 504,
+    "timeYear": 504
   },
   {
     "name": "US-VPS-PREM-1",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 236,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236
+    "time": 237,
+    "timeDay": 230,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237
   },
   {
     "name": "CA-VPS-1",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 203,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203
+    "time": 201,
+    "timeDay": 213,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201
   },
   {
     "name": "CA-VPS-2",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 228,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228
+    "time": 224,
+    "timeDay": 230,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224
   },
   {
     "name": "CA-WEB-1",
@@ -89,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 164
+    "time": 168,
+    "timeDay": 175,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168
   }
 ]
