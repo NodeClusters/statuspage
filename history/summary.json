@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
+    "time": 87,
     "timeDay": 77,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89
+    "timeWeek": 87,
+    "timeMonth": 87,
+    "timeYear": 87
   },
   {
     "name": "VPS-CTRL-1",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 520,
-    "timeDay": 637,
-    "timeWeek": 520,
-    "timeMonth": 520,
-    "timeYear": 520
+    "time": 517,
+    "timeDay": 487,
+    "timeWeek": 517,
+    "timeMonth": 517,
+    "timeYear": 517
   },
   {
     "name": "US-VPS-PREM-1",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 293,
-    "timeWeek": 246,
-    "timeMonth": 246,
-    "timeYear": 246
+    "time": 251,
+    "timeDay": 277,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 251
   },
   {
     "name": "CA-VPS-1",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 193,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200
+    "time": 201,
+    "timeDay": 205,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201
   },
   {
     "name": "CA-VPS-2",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 213,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 223
+    "time": 221,
+    "timeDay": 208,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221
   },
   {
     "name": "CA-WEB-1",
@@ -89,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 185,
-    "timeWeek": 170,
-    "timeMonth": 170,
-    "timeYear": 170
+    "time": 173,
+    "timeDay": 196,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173
   }
 ]
