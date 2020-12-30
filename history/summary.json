@@ -94,17 +94,17 @@
     "url": "$CA_WEB_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ca-web-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 118,
-    "timeWeek": 157,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "time": 385,
+    "timeDay": 3744,
+    "timeWeek": 1059,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   }
 ]
