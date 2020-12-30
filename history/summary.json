@@ -94,19 +94,19 @@
     "url": "$CA_WEB_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ca-web-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 3744,
-    "timeWeek": 1059,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 379,
+    "timeDay": 2560,
+    "timeWeek": 962,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2020-12-30": 0
+      "2020-12-30": 69
     }
   }
 ]
