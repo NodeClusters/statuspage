@@ -76,9 +76,9 @@
     "url": "$CA_VPS_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ca-vps-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 213,
     "timeMonth": 233,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-12": 0
+    }
   },
   {
     "name": "CA-WEB-1",
