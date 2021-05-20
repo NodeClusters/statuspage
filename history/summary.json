@@ -22,9 +22,9 @@
     "url": "$VPS_CTRL_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vps-ctrl-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 430,
     "timeMonth": 441,
     "timeYear": 475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "US-VPS-PREM-1",
@@ -80,12 +82,12 @@
     "slug": "ca-vps-2",
     "status": "up",
     "uptime": "97.00%",
-    "uptimeDay": "95.64%",
-    "uptimeWeek": "41.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "45.24%",
     "uptimeMonth": "83.48%",
     "uptimeYear": "97.00%",
     "time": 221,
-    "timeDay": 306,
+    "timeDay": 369,
     "timeWeek": 238,
     "timeMonth": 239,
     "timeYear": 221,
