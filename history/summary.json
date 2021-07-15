@@ -62,9 +62,9 @@
     "url": "$CA_VPS_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ca-vps-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 211,
     "timeMonth": 216,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-15": 0
+    }
   },
   {
     "name": "CA-VPS-2",
@@ -108,11 +110,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ca-web-1",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.56%",
     "time": 184,
     "timeDay": 150,
     "timeWeek": 126,
